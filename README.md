@@ -1,5 +1,4 @@
-# ipfp
-Interpretation of Programs from First Principles
+# Interpretation of Programs from First Principles
 
 > A bottom-up introduction to computer science through abstraction.
 
